@@ -4,7 +4,7 @@
 
 Web shop for new car body parts from Zaječar, where customers pick make, model and year and pay on delivery anywhere in Serbia.
 
-**[autodelovirm.com](https://autodelovirm.com/)** · [Case study (in Serbian)](https://svilenkovic.com/radovi/auto-delovi-rm) · [Srpski](README.sr.md)
+**[autodelovirm.com](https://autodelovirm.com/)** · [Case study (in Serbian)](https://svilenkovic.rs/radovi/auto-delovi-rm) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > Client project. The source code belongs to the client and stays in a private repository. This page describes what I built and how.
@@ -37,10 +37,10 @@ The hardest part was not losing track of the customer's car. Make, model and yea
 
 | | Performance | Accessibility | Best practices | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Mobile | 95 | 100 | 100 | 100 |
-| Desktop | 91 | 100 | 100 | 100 |
+| Mobile | 94 | 100 | 100 | 100 |
+| Desktop | 92 | 100 | 100 | 100 |
 
-PageSpeed Insights, lab test of the live site, September 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `AutoPartsStore`, `Store`.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `AutoPartsStore`, `Store`.
 
 ## Screenshots
 
