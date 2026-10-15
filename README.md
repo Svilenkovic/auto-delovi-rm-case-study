@@ -37,8 +37,8 @@ The hardest part was not losing track of the customer's car. Make, model and yea
 
 | | Performance | Accessibility | Best practices | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Mobile | 94 | 100 | 100 | 100 |
-| Desktop | 92 | 100 | 100 | 100 |
+| Mobile | 93 | 100 | 100 | 100 |
+| Desktop | 93 | 100 | 100 | 100 |
 
 PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `AutoPartsStore`, `Store`.
 
